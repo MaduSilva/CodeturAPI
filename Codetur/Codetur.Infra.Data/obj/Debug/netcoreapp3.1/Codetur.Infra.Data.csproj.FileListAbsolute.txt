@@ -1,0 +1,34 @@
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Infra.Data.deps.json
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Infra.Data.dll
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.csprojAssemblyReference.cache
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.AssemblyInfo.cs
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Infra.Data.runtimeconfig.json
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Infra.Data.runtimeconfig.dev.json
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.genruntimeconfig.cache
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Infra.Data.pdb
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Comum.dll
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Dominio.dll
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Dominio.pdb
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Comum.pdb
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.csproj.CopyComplete
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.dll
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.pdb
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Infra.Data.deps.json
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Infra.Data.runtimeconfig.json
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Infra.Data.runtimeconfig.dev.json
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Infra.Data.dll
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Infra.Data.pdb
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Comum.dll
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Dominio.dll
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Dominio.pdb
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\bin\Debug\netcoreapp3.1\Codetur.Comum.pdb
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.csprojAssemblyReference.cache
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.AssemblyInfo.cs
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.csproj.CopyComplete
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.dll
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.pdb
+C:\Users\marri\Downloads\Codetur\Codetur\Codetur.Infra.Data\obj\Debug\netcoreapp3.1\Codetur.Infra.Data.genruntimeconfig.cache

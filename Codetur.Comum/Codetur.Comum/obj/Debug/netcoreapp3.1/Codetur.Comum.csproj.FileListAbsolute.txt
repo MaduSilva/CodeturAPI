@@ -1,0 +1,39 @@
+C:\Users\47498972808\Downloads\CodeTur\Codetur.Comum\Codetur.Comum\bin\Debug\netcoreapp3.1\Codetur.Comum.deps.json
+C:\Users\47498972808\Downloads\CodeTur\Codetur.Comum\Codetur.Comum\bin\Debug\netcoreapp3.1\Codetur.Comum.dll
+C:\Users\47498972808\Downloads\CodeTur\Codetur.Comum\Codetur.Comum\bin\Debug\netcoreapp3.1\Codetur.Comum.pdb
+C:\Users\47498972808\Downloads\CodeTur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.csprojAssemblyReference.cache
+C:\Users\47498972808\Downloads\CodeTur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.AssemblyInfoInputs.cache
+C:\Users\47498972808\Downloads\CodeTur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.AssemblyInfo.cs
+C:\Users\47498972808\Downloads\CodeTur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.csproj.CoreCompileInputs.cache
+C:\Users\47498972808\Downloads\CodeTur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.dll
+C:\Users\47498972808\Downloads\CodeTur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.pdb
+C:\Users\marri\Source\Repos\Codetur\Codetur.Comum\Codetur.Comum\bin\Debug\netcoreapp3.1\Codetur.Comum.deps.json
+C:\Users\marri\Source\Repos\Codetur\Codetur.Comum\Codetur.Comum\bin\Debug\netcoreapp3.1\Codetur.Comum.dll
+C:\Users\marri\Source\Repos\Codetur\Codetur.Comum\Codetur.Comum\bin\Debug\netcoreapp3.1\Codetur.Comum.pdb
+C:\Users\marri\Source\Repos\Codetur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.csprojAssemblyReference.cache
+C:\Users\marri\Source\Repos\Codetur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.AssemblyInfoInputs.cache
+C:\Users\marri\Source\Repos\Codetur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.AssemblyInfo.cs
+C:\Users\marri\Source\Repos\Codetur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.dll
+C:\Users\marri\Source\Repos\Codetur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.pdb
+C:\Users\marri\Source\Repos\Codetur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.csproj.CoreCompileInputs.cache
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur.Comum\Codetur.Comum\bin\Debug\netcoreapp3.1\Codetur.Comum.deps.json
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur.Comum\Codetur.Comum\bin\Debug\netcoreapp3.1\Codetur.Comum.dll
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur.Comum\Codetur.Comum\bin\Debug\netcoreapp3.1\Codetur.Comum.pdb
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.csprojAssemblyReference.cache
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.AssemblyInfoInputs.cache
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.AssemblyInfo.cs
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.csproj.CoreCompileInputs.cache
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.dll
+C:\Users\marri\Downloads\Projeto CodeTur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.pdb
+C:\Users\marri\Downloads\Codetur\Codetur.Comum\Codetur.Comum\bin\Debug\netcoreapp3.1\Codetur.Comum.deps.json
+C:\Users\marri\Downloads\Codetur\Codetur.Comum\Codetur.Comum\bin\Debug\netcoreapp3.1\Codetur.Comum.dll
+C:\Users\marri\Downloads\Codetur\Codetur.Comum\Codetur.Comum\bin\Debug\netcoreapp3.1\Codetur.Comum.pdb
+C:\Users\marri\Downloads\Codetur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.csprojAssemblyReference.cache
+C:\Users\marri\Downloads\Codetur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.AssemblyInfoInputs.cache
+C:\Users\marri\Downloads\Codetur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.AssemblyInfo.cs
+C:\Users\marri\Downloads\Codetur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.csproj.CoreCompileInputs.cache
+C:\Users\marri\Downloads\Codetur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.dll
+C:\Users\marri\Downloads\Codetur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.pdb
+C:\Users\marri\Downloads\Codetur\Codetur.Comum\Codetur.Comum\bin\Debug\netcoreapp3.1\Codetur.Comum.runtimeconfig.json
+C:\Users\marri\Downloads\Codetur\Codetur.Comum\Codetur.Comum\bin\Debug\netcoreapp3.1\Codetur.Comum.runtimeconfig.dev.json
+C:\Users\marri\Downloads\Codetur\Codetur.Comum\Codetur.Comum\obj\Debug\netcoreapp3.1\Codetur.Comum.genruntimeconfig.cache
